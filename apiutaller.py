@@ -38,14 +38,14 @@ from sys import platform
 # VARIABLES !!!!!
 ## Don't forget to change and control them!
 ## Warning! You must use "" when you don't use any.
-appname="TEAfapiutaller" # Don't forget to change this! This is necessary for apiutaller.
+appname="TEAfunknown" # Don't forget to change this! This is necessary for apiutaller.
 appfolder="/usr/bin/" # Don't forget to change this! This is necessary for apiutaller.
-appfileold="teafapiutaller.py" # Don't forget to change this! This is necessary for apiutaller.
-appfilenew="teafapiutaller" # Don't forget to change this! This is necessary for apiutaller.
+appfileold="teafunknown.py" # Don't forget to change this! This is necessary for apiutaller.
+appfilenew="teafunknown" # Don't forget to change this! This is necessary for apiutaller.
 policyfile=any # Options: policy file and any
-appdesktopfile="teafapiutaller.desktop" # Options: desktop file and any
-mainappfolder="/usr/local/bin/" # Options: Your way for your main app folder or any
-mainappfoldername="teafapiutaller" # Options your main app folder for icon, modules etc. or any
+appdesktopfile=any # Options: desktop file and any
+mainappfolder=any # Options: Your way for your main app folder or any
+mainappfoldername=any # Options your main app folder for icon, modules etc. or any
 licensename="GPLv3" # Don't forget to change this! This is necessary for apiutaller.
 appdev="MuKonqi" # Don't forget to change this! This is necessary for apiutaller.
 debian_apt_support="true" # Options: true and false

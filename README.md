@@ -1,4 +1,4 @@
-# The Example App for unknown
+# The Example App for ?
 ## English
 This program was written to show that if someone makes an installer or uninstaller, it works.
 

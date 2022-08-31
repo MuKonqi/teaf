@@ -45,3 +45,5 @@ Not: [Python3'ü buradan](https://www.python.org/downloads/windows/) en üstteki
 
 ### Lisans:
 Apache 2.0
+### Installer and uninstaller: / Kurucu ve kaldırıcı:
+[Apiutaller](https://github.com/MuKonqi/apiutaller)

@@ -46,12 +46,12 @@ lang="default" # Don't change this variable!
 ## Warning! You must use "" when you don't use any.
 appname="TEAf" # Don't forget to change this! This is necessary for Apiutaller.
 appfolder="/usr/bin/" # Don't forget to change this! This is necessary for Apiutaller.
-appfileold="TEAf.py" # Don't forget to change this! This is necessary for Apiutaller.
-appfilenew="TEAf" # Don't forget to change this! This is necessary for Apiutaller.
+appfileold="teaf.py" # Don't forget to change this! This is necessary for Apiutaller.
+appfilenew="teaf" # Don't forget to change this! This is necessary for Apiutaller.
 policyfile=any # Options: policy file and any
 appdesktopfile=any # Options: desktop file and any
 mainappfolder="/usr/local/bin/" # Options: Your way for your main app folder or any
-mainappfoldername="TEAf" # Options your main app folder for icon, modules etc. or any
+mainappfoldername="teaf" # Options your main app folder for icon, modules etc. or any
 licensename="Apache 2.0" # Don't forget to change this! This is necessary for Apiutaller.
 appdev="MuKonqi" # Don't forget to change this! This is necessary for Apiutaller.
 debian_apt_support="true" # Options: true and false
